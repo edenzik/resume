@@ -1,8 +1,7 @@
-Eden Zik's Resume
+Eden Zik's Resume [![PDF Status](https://www.sharelatex.com/github/repos/edenzik/resume/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/edenzik/resume/builds/latest/output.pdf)
 =========================
 
-[![PDF Status](https://www.sharelatex.com/github/repos/edenzik/resume/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/edenzik/resume/builds/latest/output.pdf)
-
+### [Latest Version](www.sharelatex.com/github/repos/edenzik/resume/builds/latest/output.pdf)
 My resume is a slightly modified vesion of [deedydas](http://www.github.com/deedydas)'s resume template.
 
 It has been forked from his repo at [github.com/deedydas/Deedy-Resume](https://github.com/deedydas/Deedy-Resume).
