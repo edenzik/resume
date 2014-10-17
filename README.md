@@ -5,9 +5,7 @@ Eden Zik's Resume
 
 My resume is a slightly modified vesion of [deedydas](github.com/deedydas)'s resume template.
 
-It has been forked from his repo at [[github.com/deedydas/Deedy-Resume]].
-
-#[Latest Build](https://www.sharelatex.com/github/repos/edenzik/resume/builds/latest/output.pdf)
+It has been forked from his repo at [github.com/deedydas/Deedy-Resume](https://github.com/deedydas).
 
 ## License
     Copyright 2014 Debarghya Das
